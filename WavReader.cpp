@@ -49,7 +49,7 @@ void WavReader::read( )
 
     int buffer;
     
-    int number_of_bytes = 2; // 24 bit signed integer
+    int number_of_bytes = 2; //Read the README For more information about this line.
     
     float AudioSampleBuffer;
     
